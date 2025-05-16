@@ -8,9 +8,9 @@ body {
 }
 
 header {
-  background-color: #fdd835;
+  background-color: #ef5350;
   padding: 20px;
-  border-bottom: 4px solid #fbc02d;
+  border-bottom: 4px solid #e53935;
 }
 
 header h1 {
@@ -27,13 +27,13 @@ nav a {
 
 .intro {
   padding: 30px;
-  background-color: #fff3e0;
-  border-bottom: 3px dashed #ffb300;
+  background-color: #ffebee;
+  border-bottom: 3px dashed #ef5350;
 }
 
 .button {
   display: inline-block;
-  background-color: #ff7043;
+  background-color: #e53935;
   color: white;
   padding: 10px 20px;
   margin-top: 20px;
@@ -44,7 +44,7 @@ nav a {
 }
 
 .button:hover {
-  background-color: #f4511e;
+  background-color: #c62828;
 }
 
 .gallery {
@@ -57,7 +57,7 @@ nav a {
 
 .item {
   background-color: #fff;
-  border: 2px solid #fdd835;
+  border: 2px solid #ef5350;
   border-radius: 10px;
   padding: 10px;
   width: 200px;
@@ -72,6 +72,6 @@ nav a {
 footer {
   margin-top: 40px;
   padding: 20px;
-  background-color: #fdd835;
-  border-top: 4px solid #fbc02d;
+  background-color: #ef5350;
+  border-top: 4px solid #e53935;
 }
